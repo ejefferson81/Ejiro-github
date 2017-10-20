@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="37274" started-at="2017-10-06T14:18:12Z" finished-at="2017-10-06T14:18:49Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="37274" started-at="2017-10-06T14:18:12Z" finished-at="2017-10-06T14:18:49Z">
+      <class name="FinalProject.HomePage">
+        <test-method status="PASS" signature="basePageNavigation(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:FinalProject.HomePage@4470f8a6]" name="basePageNavigation" duration-ms="11640" started-at="2017-10-06T10:18:12Z" data-provider="getData" finished-at="2017-10-06T10:18:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[nonrestricteduser@qw.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[123456]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Restrcited User]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basePageNavigation -->
+        <test-method status="PASS" signature="basePageNavigation(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:FinalProject.HomePage@4470f8a6]" name="basePageNavigation" duration-ms="10800" started-at="2017-10-06T10:18:24Z" data-provider="getData" finished-at="2017-10-06T10:18:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[restricteduser@qw.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[456788]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Non restricted user]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basePageNavigation -->
+      </class> <!-- FinalProject.HomePage -->
+      <class name="FinalProject.AppTest">
+        <test-method status="PASS" signature="testApp()[pri:0, instance:FinalProject.AppTest@37f1104d]" name="testApp" duration-ms="1" started-at="2017-10-06T10:18:41Z" finished-at="2017-10-06T10:18:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testApp -->
+      </class> <!-- FinalProject.AppTest -->
+      <class name="FinalProject.ValidateTitle">
+        <test-method status="PASS" signature="basePageNavigation()[pri:0, instance:FinalProject.ValidateTitle@55740540]" name="basePageNavigation" duration-ms="8747" started-at="2017-10-06T10:18:41Z" finished-at="2017-10-06T10:18:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basePageNavigation -->
+      </class> <!-- FinalProject.ValidateTitle -->
+      <class name="FinalProject.ValidateNavigationBar">
+        <test-method status="PASS" signature="basePageNavigation()[pri:0, instance:FinalProject.ValidateNavigationBar@740773a3]" name="basePageNavigation" duration-ms="6050" started-at="2017-10-06T10:18:35Z" finished-at="2017-10-06T10:18:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basePageNavigation -->
+      </class> <!-- FinalProject.ValidateNavigationBar -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

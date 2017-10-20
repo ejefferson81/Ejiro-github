@@ -1,0 +1,8 @@
+17:15:24.725 [main] INFO  Resources.Base - Non restricted user
+17:15:27.064 [main] INFO  Resources.Base - Driver is initialized
+17:15:33.469 [main] INFO  Resources.Base - Navigation is validated
+17:15:40.234 [main] INFO  Resources.Base - Title is validated
+17:25:01.784 [main] INFO  Resources.Base - Restrcited User
+17:25:14.442 [main] INFO  Resources.Base - Non restricted user
+17:25:16.841 [main] INFO  Resources.Base - Driver is initialized
+17:25:24.584 [main] INFO  Resources.Base - Navigation is validated
