@@ -18,7 +18,7 @@ public class newClass {
 			System.out.println("Test Passed");
 		} else {
 
-			System.out.println("Test Failed");
+			System.out.println("Test Failed1");
 
 		}
 	String color = driver.findElement(By.xpath("//*[@id=\"hplogo\"]")).getCssValue("color");
