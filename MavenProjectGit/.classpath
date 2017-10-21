@@ -58,5 +58,7 @@
 	<classpathentry kind="lib" path="/Applications/Selenium/selenium-java-3/lib/xercesImpl-2.11.0.jar"/>
 	<classpathentry kind="lib" path="/Applications/Selenium/selenium-java-3/lib/xml-apis-1.4.01.jar"/>
 	<classpathentry kind="lib" path="/Users/ejiroghenejefferson/junit5-engine-5.0.0-ALPHA.jar"/>
+	<classpathentry kind="lib" path="/Users/ejiroghenejefferson/apache-log4j-2.9.1-bin/log4j-api-2.9.1.jar"/>
+	<classpathentry kind="lib" path="/Users/ejiroghenejefferson/apache-log4j-2.9.1-bin/log4j-core-2.9.1.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>

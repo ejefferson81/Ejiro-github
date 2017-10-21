@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="3901" started-at="2017-10-21T01:29:40Z" finished-at="2017-10-21T01:29:44Z">
+  <suite name="Default suite" duration-ms="3547" started-at="2017-10-21T20:03:56Z" finished-at="2017-10-21T20:04:00Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="3901" started-at="2017-10-21T01:29:40Z" finished-at="2017-10-21T01:29:44Z">
+    <test name="Default test" duration-ms="3547" started-at="2017-10-21T20:03:56Z" finished-at="2017-10-21T20:04:00Z">
       <class name="MavenProject.MavenProjectGit.newClass">
-        <test-method status="PASS" signature="intializeDriver()[pri:0, instance:MavenProject.MavenProjectGit.newClass@42d80b78]" name="intializeDriver" duration-ms="3879" started-at="2017-10-20T21:29:40Z" finished-at="2017-10-20T21:29:44Z">
+        <test-method status="PASS" signature="intializeDriver()[pri:0, instance:MavenProject.MavenProjectGit.newClass@604ed9f0]" name="intializeDriver" duration-ms="3528" started-at="2017-10-21T16:03:56Z" finished-at="2017-10-21T16:04:00Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- intializeDriver -->
